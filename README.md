@@ -1,0 +1,2 @@
+# simpleQrCodeGenerator
+qr code generator
